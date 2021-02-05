@@ -4,7 +4,7 @@ binary version of XML. It's used for container formats like [WebM][webm] or
 
 ## Note
 
-This library was rewritten from version `3.0.0` of the existing [npm ebml][npm-ebml] package.  The rewrite was performed mainly to enable modification of tags during streaming. (At the time of this writing, the referenced library required a deep understanding of both the inner workings of the package and ebml to update the required properties correctly between decoding and encoding binary data).  As part of the rewrite, the project was converted to use Typescript and to provide a uniform API for decoding and encoding EBML.
+This library was forked from a library which was rewritten from version `3.0.0` of the existing [npm ebml][npm-ebml] package.  The rewrite was performed mainly to enable modification of tags during streaming. (At the time of this writing, the referenced library required a deep understanding of both the inner workings of the package and ebml to update the required properties correctly between decoding and encoding binary data).  As part of the rewrite, the project was converted to use Typescript and to provide a uniform API for decoding and encoding EBML.
 
 # Install
 
