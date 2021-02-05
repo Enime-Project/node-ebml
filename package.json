@@ -35,7 +35,7 @@
     "jasmine": "^3.2.0",
     "rimraf": "^2.6.2",
     "ts-node": "^7.0.1",
-    "typescript": "^3.0.3"
+    "typescript": "^3.9.7"
   },
   "contributors": [
     "Austin Blake <austin.leroy@hotmail.com>",
